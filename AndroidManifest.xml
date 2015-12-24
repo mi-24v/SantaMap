@@ -18,8 +18,6 @@
     <!-- 追加パーミッション２：現在位置取得のため -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <!-- 位置情報 ネットワークから -->
-    <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES" />
 
     <!-- 追加パーミッション３：Google Mapsの動作に必要 -->
     <uses-permission android:name="android.permission.INTERNET" />
